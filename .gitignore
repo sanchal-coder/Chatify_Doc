@@ -1,0 +1,7 @@
+vectorestore/
+uploaded_document/
+__pycache__/
+=0.29.21
+=22.3.0
+.DS_Store
+Thumbs.db
